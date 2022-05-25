@@ -3,3 +3,5 @@ print : .. "Profile 4" --kiosk-printing
 date : 05/05/2022
 icone : logo.ico
 
+"Profile 4" --kiosk-printing --start-fullscreen
+

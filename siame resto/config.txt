@@ -4,3 +4,5 @@ link : infonet_siame_resto
 date : 25/05/2022
 print : .. "Profile 4" --kiosk-printing 
 icone : logo.ico
+
+"Profile 4" --kiosk-printing --start-fullscreen
