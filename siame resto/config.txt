@@ -1,0 +1,6 @@
+cle  : open  : infonetsiame
+cle  : close : 0000000000000000
+link : infonet_siame_resto
+date : 25/05/2022
+print : .. "Profile 4" --kiosk-printing 
+icone : logo.ico
